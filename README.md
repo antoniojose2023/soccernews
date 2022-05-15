@@ -8,7 +8,7 @@
 
 ### Linnguagem de programação utilizada
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
  
 </div><br>
 
