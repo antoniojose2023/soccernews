@@ -12,7 +12,7 @@
 </div><br>
 
 <br>
-<div align="left" valign="top"><br>
+<div align="left" ><br>
   <p align="left"> Biblioteca </p><br>
   <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"><br>
   <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
