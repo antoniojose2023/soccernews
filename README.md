@@ -1,4 +1,4 @@
-# soccernews
+# Soccer News
 
 <div>
   <p align="center">Este projeto foi baseado no Lab da DIO 😉️</p>
