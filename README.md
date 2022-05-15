@@ -38,6 +38,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart: e Kotlin.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats"></a> e <a href="https://github.com/rafaballerini">Antonio José</a></p>
 </div>
