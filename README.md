@@ -25,7 +25,9 @@
 <br><br><br><br>
 <hr>
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <h5 align="center">Rede de contato </h5>
+  <a href="https://www.linkedin.com/in/antonio-jose-b1a926111/" 
+ target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" height="50"></a>
 </div>
 
 <div align="center">
