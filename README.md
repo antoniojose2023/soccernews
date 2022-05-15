@@ -12,6 +12,7 @@
 </div><br>
 
 <br><br><br><br>
+<hr>
 
 <div align="left" valign="top"><br>
   <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br><br>
