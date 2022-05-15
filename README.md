@@ -17,7 +17,7 @@
 <div align="left" valign="top"><br>
   <p align="left"> Bibliotecas</p><br>
   <p align="left"> Retrofit</p>
-  <img align="left" alt="React" height="140" width="150" src="https://img.icons8.com/dusk/64/000000/web-shield.png"><br><br><br><br><br><br><br><br>
+  <img align="left" alt="React" height="140" width="150" src="https://img.icons8.com/cute-clipart/128/000000/internet-explorer.png"><br><br><br><br><br><br><br><br>
   <p align="left"> Picasso</p>
   <img align="left" alt="Redux" height="140" width="150" src="https://img.icons8.com/color/480/000000/picasa.png"><br><br>
   
