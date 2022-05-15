@@ -15,6 +15,7 @@
 <hr>
 
 <div align="left" valign="top"><br>
+  <p align="left"> Bibliotecas</p>
   <img align="left" alt="React" height="140" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br><br><br><br><br><br>
   <img align="left" alt="Redux" height="140" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><br><br>
   
