@@ -15,8 +15,10 @@
 <hr>
 
 <div align="left" valign="top"><br>
-  <p align="left"> Bibliotecas</p>
+  <p align="left"> Bibliotecas</p><br>
+  <p align="left"> Retrofit</p>
   <img align="left" alt="React" height="140" width="150" src="https://img.icons8.com/dusk/64/000000/web-shield.png"><br><br><br><br><br><br><br><br>
+  <p align="left"> Picasso</p>
   <img align="left" alt="Redux" height="140" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><br><br>
   
 </div><br>
