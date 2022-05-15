@@ -7,7 +7,7 @@
 
 
 <div align="left" valign="top"><br>
-  <p align="left"> Linnguagem de programação utilizada</p><br>
+  <p align="left"> Linnguagem de programação utilizada</p>
   <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
  
 </div><br>
