@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">Este projeto foi baseado no Lab da DIO 😉️</p>
-  <p align="center">Neste foi implementado o que há de mais moderno no desenvolvimento mobile</p>
+  <p align="center">Neste App foi implementado o que há de mais moderno no desenvolvimento mobile</p>
 </div>
 
 
@@ -30,6 +30,7 @@
 <div align="left" valign="top"><br>
   <p align="left"> Arquiteruta</p><br>
   <p align="left">MVVM</p>
+  <p aling="left">O padrão de projeto Model-View-ViewModel é uma arquitetura para desenvolvimento de software mais robusta, facilitando assim, na compreensão do código e manuntenção do mesmo</p>
   <img align="left" alt="React" height="140" width="150" src="https://img.icons8.com/cute-clipart/128/000000/internet-explorer.png"><br><br><br><br><br><br><br><br>
    
 </div><br>
