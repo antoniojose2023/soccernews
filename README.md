@@ -8,7 +8,7 @@
 
 <div align="left" ><br>
   <p align="left"> * Linguagem de programação utilizada</p>
-  <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="left" alt="React" height="140" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div><br>
 
 <br><br><br><br>
