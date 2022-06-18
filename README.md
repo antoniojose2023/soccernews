@@ -54,5 +54,5 @@
 
 <div align="center">
   <p>Feito com :heart: e Kotlin.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats"></a>  <a href="https://github.com/rafaballerini">Antonio José</a></p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats"></a>  <a href="https://github.com/antonio">Antonio José</a></p>
 </div>
